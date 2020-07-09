@@ -39,7 +39,7 @@ input[type="submit"]{
     margin-top: 1em;
 }
 .list{
-    width: 80%;
+    width: 85%;
     margin: auto;
 }
 .list-item{
@@ -47,10 +47,11 @@ input[type="submit"]{
     text-transform: capitalize;
     height: 2em;
     margin-bottom: 1em;
-    padding:10px;
+    padding:0.5em;
     background-color: rgb(121, 113, 113);
     color: #fff;
 }
+
 h4,.link,.del{
     display: inline;
 }
